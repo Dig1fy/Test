@@ -7,23 +7,19 @@
 
 
 <table>
-  <colgroup>
-    <col span="2" style="background-color:red">
-    <col style="background-color:yellow">
-  </colgroup>
   <tr>
-    <th>ISBN</th>
+    <th>ZZZZZZZ</th>
     <th>Title</th>
-    <th>Price</th>
+    <th>AAAART</th>
   </tr>
   <tr>
-    <td>3476896</td>
-    <td>My first HTML</td>
-    <td>$53</td>
+    <td>11111111</td>
+    <td>My first README</td>
+    <td>Ye</td>
   </tr>
   <tr>
-    <td>5869207</td>
-    <td>My first CSS</td>
-    <td>$49</td>
+    <td>2222222</td>
+    <td>My first README</td>
+    <td>Nnnnn</td>
   </tr>
 </table>
