@@ -1,1 +1,1 @@
-<h1><img src="<h1><img src="https://raw.githubusercontent.com/ivaylokenov/MyTested.WebApi/master/documentation/logo.png" align="left" alt="MyTested.WebApi" width="100">" align="left"  width="100">
+<h1><img src="<h1><img src="/certificates/certificates/converttoimage/66322?code=4f0418c3" align="left"  width="100">" align="left"  width="100">
