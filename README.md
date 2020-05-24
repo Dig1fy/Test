@@ -188,6 +188,43 @@ Ivaylo Petrov
 </td>
 </tr>
 
+<tr>
+<tr><td colspan="3" align="center" width="100%"><p>Final Exam Preparation</p></td></tr>
+</tr>
+
+<tr>
+<td width="50%">
+<p><a title="Final exam" href="https://github.com/q2kPetrov/SoftUni-Courses/tree/master/C%23%20Fundamentals/Exams/Final%20Exams/Final%20Exam%20-%2003%20August%202019%20Group%201" target="_blank">Final exam - 3 August 2019 - group 1</a></p>
+</td>
+<td colspan="2" width="50%">
+<p><a title="06 April 2019" href="https://github.com/q2kPetrov/SoftUni-Courses/tree/master/C%23%20Fundamentals/Exams/Final%20Exams/Final%20Exam%20-%2006%20April%202019" target="_blank">Final exam - 06 April 2019</a></p>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<p><a title="Final exam" href="https://github.com/q2kPetrov/SoftUni-Courses/tree/master/C%23%20Fundamentals/Exams/Final%20Exams/Final%20Exam%20-%2014%20April%202019%20Group%20I" target="_blank">Final exam - 14 April 2019 - group 1</a></p>
+</td>
+<td colspan="2" width="50%">
+<p><a title="14 April 2019" href="https://github.com/q2kPetrov/SoftUni-Courses/tree/master/C%23%20Fundamentals/Exams/Final%20Exams/Final%20Exam%20-%2014%20April%202019%20Group%20II" target="_blank">Final exam - 14 April 2019 - group 2</a></p>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<p><a title="Final exam" href="https://github.com/q2kPetrov/SoftUni-Courses/tree/master/C%23%20Fundamentals/Exams/Final%20Exams/Final%20Exam%20-%2016%20December%202018" target="_blank">Final exam - 16 December 2018</a></p>
+</td>
+<td colspan="2" width="50%">
+<p><a title="Final exam" href="https://github.com/q2kPetrov/SoftUni-Courses/tree/master/C%23%20Fundamentals/Exams/Final%20Exams/Final%20Exam%20Preparation%20-%2024%20July%202019" target="_blank">Final exam - 24 July 2019</a></p>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<p><a title="Retake Final exam" href="https://github.com/q2kPetrov/SoftUni-Courses/tree/master/C%23%20Fundamentals/Exams/Final%20Exams/Retake%20Final%20Exam%20-%2018%20April%202018" target="_blank">Final exam - Retake - 18 April 2018</a></p>
+</td>
+</tr>
+
 </tbody>
 </table>
 </details>
