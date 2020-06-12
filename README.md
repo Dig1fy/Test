@@ -2,7 +2,7 @@
 <table border="0" width="100%" cellspacing="2" cellpadding="3" align="center">
 <tbody>
 <tr>
-<td align="center" width="33%"><img style="text-align: ce;" src="http://conf.softuni.bg/wp-content/uploads/2015/01/SoftUni-Logo-Flat_square-blue-300x235.png"/></td>
+<td align="center" hight = "100%" width="33%"><img style="text-align: ce;" src="https://thecodeistrueorfalse.files.wordpress.com/2014/11/softuni-wallpaper-7-1920x1080.jpg"/></td>
   
 <td align="center" width="33%">
 <h1><a href="https://softuni.bg/">SoftUni</a></h1>
