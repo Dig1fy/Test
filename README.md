@@ -39,8 +39,8 @@ Ivaylo Petrov
 
 <!-- SUMMARY BEGIN -->
 <details>
-<summary> More Details
-<table border="0" width="100%" cellspacing="1" cellpadding="3" align="left">
+<summary> Click for more details
+<table border="1" width="90%" cellspacing="1" cellpadding="3" align="left">
 <tbody>
  <tr>
   <th align="left" width="50%">Programming basics with C# - March 2019 <br /> 
@@ -53,18 +53,17 @@ Ivaylo Petrov
 </summary>
 <!-- SUMMARY END -->
  
- <summary> TEST TEST
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="left">
 <tbody>
 <!-- COURSE BODY -->
 <tr>
-<td width="19.5%">
+<td width="50%">
  <ul>
  <li><p><a title="Simple operations and calculations" href="https://github.com/q2kPetrov/SoftUni-Courses/tree/master/C%23%20Basics/Exercises/1.%20Simple%20Operations%20and%20Calculations" target="_blank">Simple operations and calculations - exercises</a></p>
  </li>
  </ul>
 
-<td colspan="2" width="19.5%">
+<td colspan="2" width="50%">
   <ul>
   <li><p><a title="Conditional statements" href="https://github.com/q2kPetrov/SoftUni-Courses/tree/master/C%23%20Basics/Exercises/2_Conditional-statements" target="_blank">Conditional statements - exercises</a></p>
   </li>
@@ -132,5 +131,4 @@ Ivaylo Petrov
 </table>
 </details>
 <hr />
-</summary>
 <!-- C# BASICS END -->
