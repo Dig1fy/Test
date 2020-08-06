@@ -1,5 +1,5 @@
 # SoftUni-Courses
-C# / JavaScript - homeworks and exams according to the Software University(SoftUni) program. 
+C# / JavaScript / MSSQL - homeworks and exams according to the Software University(SoftUni) program. 
 
 
 <!-- HEAD START -->
@@ -31,3 +31,6 @@ Ivaylo Petrov
 </tbody>
 </table>
 <!-- HEAD END -->
+
+<!-- C# Basics Start -->
+<hr />
