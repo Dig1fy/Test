@@ -40,7 +40,7 @@ Ivaylo Petrov
 <!-- SUMMARY BEGIN -->
 <details>
 <summary> Click for more details
-<table border="1" width="90%" cellspacing="1" cellpadding="3" align="left">
+<table border="0.5" width="100%" cellspacing="0" cellpadding="0" align="center">
 <tbody>
  <tr>
   <th align="left" width="50%">Programming basics with C# - March 2019 <br /> 
