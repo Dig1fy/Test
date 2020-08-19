@@ -28,13 +28,13 @@
       <tbody>
          <!-- Course Body -->
          <tr>
-            <td colspan="1" width="19.5%">
+            <td width="19.5%">
                <ul>
                   <li>
                      <p><a title="Simple operations and calculations" href="https://github.com/q2kPetrov/SoftUni-Courses/tree/master/C%23%20Basics/Exercises/1.%20Simple%20Operations%20and%20Calculations" target="_blank">Simple operations and calculations - exercises</a></p>
                   </li>
                </ul>
-            <td colspan="1" width="19.5%">
+            <td width="19.5%">
                <ul>
                   <li>
                      <p><a title="Conditional statements" href="https://github.com/q2kPetrov/SoftUni-Courses/tree/master/C%23%20Basics/Exercises/2_Conditional-statements" target="_blank">Conditional statements - exercises</a></p>
@@ -43,14 +43,14 @@
             </td>
          </tr>
          <tr>
-            <td colspan = "1" width="19.5%">
+            <td width="19.5%">
                <ul>
                   <li>
                      <p><a title="Nested conditional statements" href="https://github.com/q2kPetrov/SoftUni-Courses/tree/master/C%23%20Basics/Exercises/3_Nested-conditional-statements" target="_blank">Nested conditional statements - exercises</a></p>
                   </li>
                </ul>
             </td>
-            <td colspan="2" width="19.5%">
+            <td width="19.5%">
                <ul>
                   <li>
                      <p><a title="While loop" href="https://github.com/q2kPetrov/SoftUni-Courses/tree/master/C%23%20Basics/Exercises/4_While-loop" target="_blank">While loop - exercises</a></p>
@@ -66,7 +66,7 @@
                   </li>
                </ul>
             </td>
-            <td colspan="2" width="20%">
+            <td width="20%">
                <ul>
                   <li>
                      <p><a title="Nested loops" href="https://github.com/q2kPetrov/SoftUni-Courses/tree/master/C%23%20Basics/Exercises/6_Nested-loops" target="_blank">Nested loops - exercises</a></p>
@@ -76,7 +76,7 @@
          </tr>
          <tr>
          <tr>
-            <td align="center" width="100%">
+            <td align="center" colspan="2" width="100%">
                <p>Exam Preparation</p>
             </td>
          </tr>
