@@ -1,38 +1,8 @@
-# SoftUni-Courses
-C# / JavaScript - homeworks and exams according to the Software University(SoftUni) program. 
-<!-- HEAD START -->
-<table border="0.9" width="100%" cellspacing="12" cellpadding="5" align="center">
-   <tbody>
-      <tr>
-         <td align="left" width="33%"><img style="text-align: center;" src="http://conf.softuni.bg/wp-content/uploads/2015/01/SoftUni-Logo-Flat_square-blue-300x235.png"/></td>
-         <td align="left" width="33%">
-            <h1><a href="https://softuni.bg/">SoftUni</a></h1>
-            <h2>C#</h2>
-            <h2>JavaScript</h2>
-            <h2>MS SQL</h2>
-         </td>
-         <td align="left" width="33%">
-            <img src="https://avatars1.githubusercontent.com/u/52930559?s=460&u=56c073c9be5078b046e7d01ceff70417375ceb2f&v=4"/>
-            <!--   TODO: Add linkedIn profile -->
-            <!-- <img src="https://avatars1.githubusercontent.com/u/52930559?s=460&u=56c073c9be5078b046e7d01ceff70417375ceb2f&v=4" width = 20% height= 20% alt="LinkedIn" /> -->
-            Student name: 
-            <strong>
-            <a title="Ivaylo Petrov" href="XXXX" target="_blank">
-            Ivaylo Petrov
-            </a>
-            </strong></p>
-         </td>
-      </tr>
-   </tbody>
-</table>
-<!-- HEAD END -->
+
 <!-- C# Basics Start -->
 <hr />
 <hr />
-<hr />
 <!-- Summary Begin -->
-<table>
-   <tbody>
 <details>
    <summary>
       <strong> Click </strong> for more detailed information
@@ -50,20 +20,21 @@ C# / JavaScript - homeworks and exams according to the Software University(SoftU
          </tbody>
       </table>
    </summary>
-                     </tbody>
-</table>
+                     
+                     
+                     
    <!-- Summary End -->
    <table border="0" width="100%" align="center">
       <tbody>
          <!-- Course Body -->
          <tr>
-            <td width="19.5%">
+            <td colspan="1" width="19.5%">
                <ul>
                   <li>
                      <p><a title="Simple operations and calculations" href="https://github.com/q2kPetrov/SoftUni-Courses/tree/master/C%23%20Basics/Exercises/1.%20Simple%20Operations%20and%20Calculations" target="_blank">Simple operations and calculations - exercises</a></p>
                   </li>
                </ul>
-            <td colspan="2" width="19.5%">
+            <td colspan="1" width="19.5%">
                <ul>
                   <li>
                      <p><a title="Conditional statements" href="https://github.com/q2kPetrov/SoftUni-Courses/tree/master/C%23%20Basics/Exercises/2_Conditional-statements" target="_blank">Conditional statements - exercises</a></p>
