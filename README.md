@@ -34,13 +34,13 @@ C# / JavaScript - homeworks and exams according to the Software University(SoftU
 <details>
    <summary>
       <strong> Click </strong> for more detailed information
-      <table border="0" width="100%" cellspacing="3" cellpadding="4" align="left">
+      <table border="0" width="100%" align="center">
          <tbody>
             <tr>
                <th align="left" width="40%">Programming basics with C# - March 2019 <br /> 
                   09.03.2019 - 20.04.2019
                </th>
-               <th width="30%">Grade: 6.00 (out of 6.00)<br /> Issue Date: 24/04/2019</th>
+               <th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date: 24/04/2019</th>
                <th>
                   <p><a width="20% title="C# Basics" href="https://softuni.bg/certificates/details/66322/4f0418c3" target="_blank">Certificate</a></p>
                </th>
@@ -135,6 +135,8 @@ C# / JavaScript - homeworks and exams according to the Software University(SoftU
       </tbody>
    </table>
 </details>
+                     
+                     
 <hr />
 <!-- C# Basics End -->
 <!-- C# Fundamentals Start -->
