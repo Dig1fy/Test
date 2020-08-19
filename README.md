@@ -32,6 +32,7 @@ C# / JavaScript - homeworks and exams according to the Software University(SoftU
 <hr />
 <!-- Summary Begin -->
 <table>
+   <tbody>
 <details>
    <summary>
       <strong> Click </strong> for more detailed information
@@ -49,6 +50,8 @@ C# / JavaScript - homeworks and exams according to the Software University(SoftU
          </tbody>
       </table>
    </summary>
+                     </tbody>
+</table>
    <!-- Summary End -->
    <table border="0" width="100%" align="center">
       <tbody>
