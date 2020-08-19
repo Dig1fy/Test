@@ -4,7 +4,7 @@
 <hr />
 <!-- Summary Begin -->
 <details>
-   <summary>
+<!--    <summary> -->
       <strong> Click </strong> for more detailed information
       <table border="0" width="100%" align="center">
          <tbody>
@@ -19,7 +19,7 @@
             </tr>
          </tbody>
       </table>
-   </summary>
+<!--    </summary> -->
                      
                      
                      
