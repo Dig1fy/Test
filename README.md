@@ -4,27 +4,26 @@
 <hr />
 <!-- Summary Begin -->
 <details>
-<!--    <summary> -->
+   <summary>
       <strong> Click </strong> for more detailed information
-      <table border="0" width="100%" align="center">
+      <table border="1" width="100%" align="center">
          <tbody>
             <tr>
-               <th align="left" width="40%">Programming basics with C# - March 2019 <br /> 
+               <th align="left" width="45%">Programming basics with C# - March 2019 <br /> 
                   09.03.2019 - 20.04.2019
                </th>
-               <th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date: 24/04/2019</th>
+               <th width="45%">Grade: 6.00 (out of 6.00)<br /> Issue Date: 24/04/2019</th>
                <th>
-                  <p><a width="20% title="C# Basics" href="https://softuni.bg/certificates/details/66322/4f0418c3" target="_blank">Certificate</a></p>
+                  <p><a width="10% title="C# Basics" href="https://softuni.bg/certificates/details/66322/4f0418c3" target="_blank">Certificate</a></p>
                </th>
             </tr>
          </tbody>
       </table>
-<!--    </summary> -->
-                     
-                     
-                     
+   </summary>          
    <!-- Summary End -->
-   <table border="0" width="100%" align="center">
+                        
+                        
+   <table border="5" width="100%" align="center">
       <tbody>
          <!-- Course Body -->
          <tr>
