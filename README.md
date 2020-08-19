@@ -3,7 +3,7 @@ C# / JavaScript / MSSQL - homeworks and exams according to the Software Universi
 
 
 <!-- HEAD START -->
-<table border="0" width="100%" cellspacing="1" cellpadding="1" align="center">
+<table border="0" width="100%" align="center">
 <tbody>
 <tr>
 <td align="left" width="33%"><img style="text-align: center;" src="http://conf.softuni.bg/wp-content/uploads/2015/01/SoftUni-Logo-Flat_square-blue-300x235.png"/></td>
@@ -40,7 +40,7 @@ Ivaylo Petrov
 <!-- SUMMARY BEGIN -->
 <details>
 <summary> Click for more details
-<table border="0.5" width="100%" cellspacing="0" cellpadding="0" align="center">
+<table border="0.5" width="100%" align="center">
 <tbody>
  <tr>
   <th align="left" width="50%">Programming basics with C# - March 2019 <br /> 
@@ -53,7 +53,7 @@ Ivaylo Petrov
 </summary>
 <!-- SUMMARY END -->
  
-<table border="0" width="100%" cellspacing="1" cellpadding="3" align="left">
+<table border="0" width="100%" align="left">
 <tbody>
 <!-- COURSE BODY -->
 <tr>
