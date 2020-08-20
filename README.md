@@ -1147,6 +1147,23 @@ C# / JavaScript - homeworks and exams according to the Software University(SoftU
             </ul>
          </td>
       </tr>
+	<tr >
+         <td width="19.5%">
+            <ul >
+               <li>
+                  <p><a title="Code First + Linq" href="https://github.com/q2kPetrov/SoftUni-Courses/tree/master/Entity%20Framework%20Core/Exercises/05.%20Code%20First%20%2B%20LINQ">Code First + LINQ - exercises</a>
+                  </p>
+               </li>
+            </ul>
+         </td>
+         <td colspan="2" width="20%">
+            <ul >
+               <li>
+                  <p><a title="Advanced Querying" href="https://github.com/q2kPetrov/SoftUni-Courses/tree/master/Entity%20Framework%20Core/Exercises/06.%20Advanced%20Querying" target="_blank">Advanced Querying - exercise</a></p>
+               </li>
+            </ul>
+         </td>
+      </tr>
       <!-- MS SQL Advanced / EF Core End -->  
       </tbody>
    </table>
