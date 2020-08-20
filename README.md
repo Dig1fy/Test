@@ -146,14 +146,14 @@ C# / JavaScript - homeworks and exams according to the Software University(SoftU
 <details>
    <summary>
       <strong> Click </strong> for more detailed information
-      <table border="0" width="100%" cellspacing="3" cellpadding="4" align="left">
+      <table width="100%" cellspacing="11" cellpadding="14" align="center">
          <tbody>
             <tr>
-               <th align="left" width="40%">C# Fundamentals - May 2019<br /> 
+               <th align="left" width="50%">C# Fundamentals - May 2019<br /> 
                   15.05.2019 - 03.08.2019
                </th>
-               <th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date: 12/08/2019</th>
-               <th>
+               <th align="left" width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date: 12/08/2019</th>
+               <th align="left" width="10%">
                   <p><a title="C# Fundamentals" href="https://softuni.bg/certificates/details/69255/3315630e" target="_blank">Certificate</a></p>
                </th>
             </tr>
@@ -275,7 +275,7 @@ C# / JavaScript - homeworks and exams according to the Software University(SoftU
          <tr>
          <tr>
             <td colspan="3" align="center" width="100%">
-               <h3><i><b>Exam Preparation</b></i></h3>
+               <h3><i><b>Mid Exam Preparation</b></i></h3>
             </td>
          </tr>
          </tr>
@@ -314,7 +314,7 @@ C# / JavaScript - homeworks and exams according to the Software University(SoftU
          <tr>
          <tr>
             <td colspan="3" align="center" width="100%">
-               <h3><i><b>Exam Preparation</b></i></h3>
+               <h3><i><b>Final Exam Preparation</b></i></h3>
             </td>
          </tr>
          </tr>
