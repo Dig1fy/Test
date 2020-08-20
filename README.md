@@ -124,8 +124,8 @@ C# / JavaScript - homeworks and exams according to the Software University(SoftU
                </ul>
             </td>
          </tr>
-         
-         <tr>
+         <tbody>
+                 <tr>
             <td width="19.5%">
                <ul>
                   <li>
@@ -133,9 +133,11 @@ C# / JavaScript - homeworks and exams according to the Software University(SoftU
                   </li>
                </ul>
             </td>
-         </tr>
-      </tbody>
+         </tr>    
+         
+      
    </table>
+      </tbody>
 </details>
 <hr />
 <!-- C# Basics End -->
