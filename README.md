@@ -1,37 +1,43 @@
+
+
+
+
+
+
+
 <html>
 <head>
 <style>
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
+details > summary {
+  padding: 4px;
+  width: 200px;
+  background-color: #eeeeee;
+  border: none;
+  box-shadow: 1px 1px 2px #bbbbbb;
+  cursor: pointer;
 }
-th, td {
-  padding: 5px;
-  text-align: left;    
+
+details > p {
+  background-color: #eeeeee;
+  padding: 4px;
+  margin: 0;
+  box-shadow: 1px 1px 2px #bbbbbb;
 }
 </style>
 </head>
 <body>
 
-<h2>Cell that spans two columns</h2>
-<p>To make a cell span more than one column, use the colspan attribute.</p>
+<h1>The details and summary elements + CSS</h1>
 
-<table style="width:100%">
-  <tr>
-    <th>Name</th>
-    <th colspan="2">Telephone</th>
-  </tr>
-  <tr>
-    <td>Bill Gates</td>
-    <td>55577854</td>
-    <td>55577855</td>
-  </tr>
-</table>
+<details>
+  <summary>Epcot Center</summary>
+  <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
+</details>
+
+<p><b>Note:</b> The details tag is not supported in Edge (prior version 79).</p>
 
 </body>
 </html>
-
-
 
 
 
