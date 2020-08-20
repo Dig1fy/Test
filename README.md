@@ -142,8 +142,10 @@ C# / JavaScript - homeworks and exams according to the Software University(SoftU
 <hr />
 <!-- Summary Begin -->
                      
-        <br><br>             
+                 
 <details>
+    <br>
+        <br>   
    <summary>
       More Details
       <table border="0" width="100%" cellspacing="3" cellpadding="4" align="left">
