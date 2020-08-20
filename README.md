@@ -34,7 +34,7 @@ C# / JavaScript - homeworks and exams according to the Software University(SoftU
 <details>
    <summary>
       <strong> Click </strong> for more detailed information
-      <table width="100%" align="left">
+      <table width="100%" align="center">
          <tbody>
             <tr>
                <th align="left" width="50%">Programming basics with C# - March 2019 <br /> 
