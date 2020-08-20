@@ -6,25 +6,6 @@
 
 
 <html>
-<head>
-<style>
-details > summary {
-  padding: 4px;
-  width: 200px;
-  background-color: #eeeeee;
-  border: none;
-  box-shadow: 1px 1px 2px #bbbbbb;
-  cursor: pointer;
-}
-
-details > p {
-  background-color: #eeeeee;
-  padding: 4px;
-  margin: 0;
-  box-shadow: 1px 1px 2px #bbbbbb;
-}
-</style>
-</head>
 <body>
 
 <h1>The details and summary elements + CSS</h1>
@@ -34,7 +15,7 @@ details > p {
   <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
 </details>
 
-<p><b>Note:</b> The details tag is not supported in Edge (prior version 79).</p>
+
 
 </body>
 </html>
