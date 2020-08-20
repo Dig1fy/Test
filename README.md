@@ -60,6 +60,7 @@ C# / JavaScript - homeworks and exams according to the Software University(SoftU
                      <p><a title="Simple operations and calculations" href="https://github.com/q2kPetrov/SoftUni-Courses/tree/master/C%23%20Basics/Exercises/1.%20Simple%20Operations%20and%20Calculations" target="_blank">Simple operations and calculations - exercises</a></p>
                   </li>
                </ul>
+                     </td>
             <td colspan="2" width="19.5%">
                <ul>
                   <li>
@@ -123,7 +124,7 @@ C# / JavaScript - homeworks and exams according to the Software University(SoftU
                </ul>
             </td>
          </tr>
-         <tr>
+         
          <tr>
             <td width="19.5%">
                <ul>
@@ -184,6 +185,7 @@ C# / JavaScript - homeworks and exams according to the Software University(SoftU
                      <p><a title="Basic sintax, conditional statements and loops" href="https://github.com/q2kPetrov/SoftUni-Courses/tree/master/C%23%20Fundamentals/01_BasicSyntaxConditionalStatementsAndLoops/Exercises/Exercisesss" target="_blank">Basic sintax, conditional statements and loops - additional exercises</a></p>
                   </li>
                </ul>
+               </td>
             <td colspan="2" width="20%">
                <ul>
                   <li>
@@ -767,7 +769,7 @@ C# / JavaScript - homeworks and exams according to the Software University(SoftU
                </li>
             </ul>
          </td>
-      <tr>
+      </tr>
       <tr>
          <td colspan="3" align="center" width="100%">
             <p>Exam Preparation</p>
@@ -1073,6 +1075,7 @@ C# / JavaScript - homeworks and exams according to the Software University(SoftU
                </li>
             </ul>
          </td>
+   </tr>
          <hr />
    </table>
 </details>
