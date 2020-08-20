@@ -677,17 +677,20 @@ C# / JavaScript - homeworks and exams according to the Software University(SoftU
 <details>
    <summary>
       <strong> Click </strong> for more detailed information
-      <table border="0" width="100%" cellspacing="1" cellpadding="3" align="left">
-         <tr>
-            <th align="left" width="50%">JavaScript Advanced - January 2020 <br /> 13.01.2020 - 23.02.2020</th>
-            <th width="40%">Grade: 6.00 (out of 6.00) <br /> Issue Date: 28/02/2020:</th>
-            <th>
-               <p><a title="C# OOP" href="https://softuni.bg/certificates/details/76354/4b5497b1" target="_blank">Certificate</a></p>
-            </th>
-         </tr>
-      </table>
+		<table width="100%" cellspacing="11" cellpadding="14" align="center">
+         <tbody>
+            <tr>
+               <th align="left" width="50%">JavaScript Advanced - January 2020 <br /> 13.01.2020 - 23.02.2020</th>
+               <th width="40%" align="left">Grade: 6.00 (out of 6.00)<br /> Issue Date: 28/02/2020</th>
+               <th align="left">
+                  <p><a title="JS Advanced" href="https://softuni.bg/certificates/details/76354/4b5497b1" target="_blank">Certificate</a></p>
+               </th>
+            </tr>
+         </tbody>
+      </table>     
    </summary>
    <!-- Summary End -->
+	
    <table border="0" width="100%" cellspacing="0" cellpadding="0" align="left">
       <!-- Course Body -->
       <tr >
@@ -835,17 +838,20 @@ C# / JavaScript - homeworks and exams according to the Software University(SoftU
 <details>
    <summary>
       <strong> Click </strong> for more detailed information
-      <table border="0" width="100%" cellspacing="1" cellpadding="3" align="left">
-         <tr>
-            <th align="left" width="50%">JavaScript Applications - February 2020 <br /> 24.02.2020 - 05.04.2020</th>
-            <th width="40%">Grade: 6.00 (out of 6.00) <br /> Issue Date: 21/04/2020:</th>
-            <th>
-               <p><a title="C# OOP" href="https://softuni.bg/certificates/details/80325/d2299076" target="_blank">Certificate</a></p>
-            </th>
-         </tr>
-      </table>
+		<table width="100%" cellspacing="11" cellpadding="14" align="center">
+         <tbody>
+            <tr>
+               <th align="left" width="50%">JavaScript Applications - February 2020 <br /> 24.02.2020 - 05.04.2020</th>
+               <th width="40%" align="left">Grade: 6.00 (out of 6.00)<br /> Issue Date: 21/04/2020:</th>
+               <th align="left">
+                  <p><a title="JS Applications" href="https://softuni.bg/certificates/details/80325/d2299076" target="_blank">Certificate</a></p>
+               </th>
+            </tr>
+         </tbody>
+      </table>  
    </summary>
    <!-- Summary End -->
+	
    <table border="0" width="100%" cellspacing="0" cellpadding="0" align="left">
       <!-- Course Body -->
       <tr >
@@ -951,15 +957,17 @@ C# / JavaScript - homeworks and exams according to the Software University(SoftU
 <details>
    <summary>
       <strong> Click </strong> for more detailed information
-      <table border="0" width="100%" cellspacing="1" cellpadding="3" align="left">
-         <tr>
-            <th align="left" width="50%">MS SQL Basics - May 2020 <br /> 18.05.2020 - 21.06.2020</th>
-            <th width="40%">Grade: 6.00 (out of 6.00) <br /> Issue Date: 28/06/2020:</th>
-            <th>
-               <p><a title="MS SQL Basics" href="https://softuni.bg/certificates/details/83021/5bb4e9e7" target="_blank">Certificate</a></p>
-            </th>
-         </tr>
-      </table>
+		<table width="100%" cellspacing="11" cellpadding="14" align="center">
+         <tbody>
+            <tr>
+               <th align="left" width="50%">MS SQL Basics - May 2020 <br /> 18.05.2020 - 21.06.2020</th>
+               <th width="40%" align="left">Grade: 6.00 (out of 6.00)<br /> Issue Date: 28/06/2020</th>
+               <th align="left">
+                  <p><a title="MS SQL Basics" href="https://softuni.bg/certificates/details/83021/5bb4e9e7" target="_blank">Certificate</a></p>
+               </th>
+            </tr>
+         </tbody>
+      </table>  
    </summary>
    <!-- Summary End -->
    <table border="0" width="100%" cellspacing="0" cellpadding="0" align="left">
@@ -1089,17 +1097,20 @@ C# / JavaScript - homeworks and exams according to the Software University(SoftU
 <details>
    <summary>
       <strong> Click </strong> for more detailed information
-      <table border="0" width="100%" cellspacing="1" cellpadding="3" align="left">
-         <tr>
-            <th align="left" width="50%">Entity Framework Core - June 2020 <br /> 22.06.2020 - 08.08.2020</th>
-            <th width="40%">Grade: 6.00 (out of 6.00) <br /> Issue Date: 18/08/2020:</th>
-            <th>
-               <p><a title="MSSQL advanced - Entity Framework Core" href="https://softuni.bg/certificates/details/86322/358ff520" target="_blank">Certificate</a></p>
-            </th>
-         </tr>
-      </table>
+		<table width="100%" cellspacing="11" cellpadding="14" align="center">
+         <tbody>
+            <tr>
+               <th align="left" width="50%">Entity Framework Core - June 2020 <br /> 22.06.2020 - 08.08.2020</th>
+               <th width="40%" align="left">Grade: 6.00 (out of 6.00)<br /> Issue Date: 18/08/2020:</th>
+               <th align="left">
+                 <p><a title="MSSQL advanced - Entity Framework Core" href="https://softuni.bg/certificates/details/86322/358ff520" target="_blank">Certificate</a></p>
+               </th>
+            </tr>
+         </tbody>
+      </table>  
    </summary>
    <!-- Summary End -->
+	
    <table border="0" width="100%" cellspacing="0" cellpadding="0" align="left">
       <!-- Course Body -->
       <tr >
