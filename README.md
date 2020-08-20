@@ -27,8 +27,7 @@ C# / JavaScript - homeworks and exams according to the Software University(SoftU
 </table>
 <!-- HEAD END -->
 <!-- C# Basics Start -->
-<hr />
-<br>
+
 <hr />
 <!-- Summary Begin -->
 <details>
@@ -379,6 +378,7 @@ C# / JavaScript - homeworks and exams according to the Software University(SoftU
       </tbody>
    </table>
 </details>
+<hr />
 <hr />
 <!-- C# Fundamentals End -->
 <!-- C# Advanced Start -->  
