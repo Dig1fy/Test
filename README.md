@@ -152,15 +152,16 @@ C# / JavaScript - homeworks and exams according to the Software University(SoftU
                <th align="left" width="50%">C# Fundamentals - May 2019<br /> 
                   15.05.2019 - 03.08.2019
                </th>
-               <th align="left" width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date: 12/08/2019</th>
-               <th align="left" width="10%">
+               <th width="40%" align="left">Grade: 6.00 (out of 6.00)<br /> Issue Date: 12/08/2019</th>
+               <th align="left">
                   <p><a title="C# Fundamentals" href="https://softuni.bg/certificates/details/69255/3315630e" target="_blank">Certificate</a></p>
                </th>
             </tr>
          </tbody>
-      </table>
+      </table>      
    </summary>
    <!-- Summary End -->
+   
    <table border="0" width="100%" cellspacing="1" cellpadding="1" align="left">
       <tbody>
          <!-- Course Body -->
@@ -385,17 +386,21 @@ C# / JavaScript - homeworks and exams according to the Software University(SoftU
 <details>
    <summary>
       <strong> Click </strong> for more detailed information
-      <table border="0" width="100%" cellspacing="3" cellpadding="4" align="left">
-         <tr>
-            <th align="left" width="50%">C# Advanced - September 2019 <br /> 17.09.2019 - 26.10.2019</th>
-            <th width="40%">Grade: 6.00 (out of 6.00) <br /> Issue Date: 07/11/2019:</th>
-            <th>
-               <p><a title="C# Advanced" href="https://softuni.bg/certificates/details/72147/9addc663" target="_blank">Certificate</a></p>
-            </th>
-         </tr>
+      <table width="100%" cellspacing="11" cellpadding="14" align="center">
+         <tbody>
+            <tr>
+               <th align="left" width="50%">C# Advanced - September 2019 <br /> 17.09.2019 - 26.10.2019</th>
+               </th>
+               <th width="40%" align="left">Grade: 6.00 (out of 6.00) <br /> Issue Date: 07/11/2019:</th>
+               <th align="left">
+                  <p><a title="C# Advanced" href="https://softuni.bg/certificates/details/72147/9addc663" target="_blank">Certificate</a></p>
+               </th>
+            </tr>
+         </tbody>
       </table>
    </summary>
    <!-- Summary End -->
+   
    <table border="0" width="100%" cellspacing="0" cellpadding="0" align="left">
       <!-- Course Body -->
       <tr >
