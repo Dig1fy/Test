@@ -62,7 +62,7 @@ C# / JavaScript - homeworks and exams according to the Software University(SoftU
                   </li>
                </ul>
             </td>
-            <td colspan="2" width="25.5%">
+            <td colspan="2" width="19.5%">
                <ul>
                   <li>
                      <p><a title="Conditional statements" href="https://github.com/q2kPetrov/SoftUni-Courses/tree/master/C%23%20Basics/Exercises/2_Conditional-statements" target="_blank">Conditional statements - exercises</a></p>
@@ -71,7 +71,7 @@ C# / JavaScript - homeworks and exams according to the Software University(SoftU
             </td>
          </tr>
          <tr>
-            <td width="25.5%">
+            <td width="19.5%">
                <ul>
                   <li>
                      <p><a title="Nested conditional statements" href="https://github.com/q2kPetrov/SoftUni-Courses/tree/master/C%23%20Basics/Exercises/3_Nested-conditional-statements" target="_blank">Nested conditional statements - exercises</a></p>
