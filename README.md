@@ -32,7 +32,7 @@ C# / JavaScript - homeworks and exams according to the Software University(SoftU
 <hr />
 <!-- Summary Begin -->
 
-<!-- <details> -->
+<details>
    <summary>
       <strong> Click </strong> for more detailed information
       <table border="0" width="100%" cellspacing="3" cellpadding="4" align="left">
@@ -141,6 +141,8 @@ C# / JavaScript - homeworks and exams according to the Software University(SoftU
 <!-- C# Fundamentals Start -->
 <hr />
 <!-- Summary Begin -->
+                     
+        <br><br>             
 <details>
    <summary>
       More Details
