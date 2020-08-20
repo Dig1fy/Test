@@ -28,7 +28,7 @@ C# / JavaScript - homeworks and exams according to the Software University(SoftU
 <!-- HEAD END -->
 <!-- C# Basics Start -->
 <hr />
-<hr />
+<br>
 <hr />
 <!-- Summary Begin -->
 <details>
@@ -105,7 +105,7 @@ C# / JavaScript - homeworks and exams according to the Software University(SoftU
          <tr>
          <tr>
             <td colspan="3" align="center" width="100%">
-               <p>Exam Preparation</p>
+               <h3><i><b>Exam Preparation</b></i></h3>
             </td>
          </tr>
          </tr>
@@ -145,7 +145,7 @@ C# / JavaScript - homeworks and exams according to the Software University(SoftU
 <!-- Summary Begin -->
 <details>
    <summary>
-      More Details
+      <strong> Click </strong> for more detailed information
       <table border="0" width="100%" cellspacing="3" cellpadding="4" align="left">
          <tbody>
             <tr>
@@ -275,7 +275,7 @@ C# / JavaScript - homeworks and exams according to the Software University(SoftU
          <tr>
          <tr>
             <td colspan="3" align="center" width="100%">
-               <p>Mid Exam Preparation</p>
+               <h3><i><b>Exam Preparation</b></i></h3>
             </td>
          </tr>
          </tr>
@@ -314,7 +314,7 @@ C# / JavaScript - homeworks and exams according to the Software University(SoftU
          <tr>
          <tr>
             <td colspan="3" align="center" width="100%">
-               <p>Final Exam Preparation</p>
+               <h3><i><b>Exam Preparation</b></i></h3>
             </td>
          </tr>
          </tr>
@@ -384,7 +384,7 @@ C# / JavaScript - homeworks and exams according to the Software University(SoftU
 <!-- Summary Begin -->
 <details>
    <summary>
-      More Details
+      <strong> Click </strong> for more detailed information
       <table border="0" width="100%" cellspacing="3" cellpadding="4" align="left">
          <tr>
             <th align="left" width="50%">C# Advanced - September 2019 <br /> 17.09.2019 - 26.10.2019</th>
@@ -462,7 +462,7 @@ C# / JavaScript - homeworks and exams according to the Software University(SoftU
       <tr>
       <tr>
          <td colspan="3" align="center" width="100%">
-            <p>Exam Preparation</p>
+            <h3><i><b>Exam Preparation</b></i></h3>
          </td>
       </tr>
       </tr>
@@ -526,7 +526,7 @@ C# / JavaScript - homeworks and exams according to the Software University(SoftU
 <!-- Summary Begin -->
 <details>
    <summary>
-      More Details
+      <strong> Click </strong> for more detailed information
       <table border="0" width="100%" cellspacing="1" cellpadding="3" align="left">
          <tr>
             <th align="left" width="50%">C# OOP - October 2019 <br /> 29.10.2019 - 15.12.2019</th>
@@ -604,7 +604,7 @@ C# / JavaScript - homeworks and exams according to the Software University(SoftU
       <tr>
       <tr>
          <td colspan="3" align="center" width="100%">
-            <p>Exam Preparation</p>
+            <h3><i><b>Exam Preparation</b></i></h3>
          </td>
       </tr>
       </tr>
@@ -668,7 +668,7 @@ C# / JavaScript - homeworks and exams according to the Software University(SoftU
 <!-- Summary Begin -->
 <details>
    <summary>
-      More Details
+      <strong> Click </strong> for more detailed information
       <table border="0" width="100%" cellspacing="1" cellpadding="3" align="left">
          <tr>
             <th align="left" width="50%">JavaScript Advanced - January 2020 <br /> 13.01.2020 - 23.02.2020</th>
@@ -762,7 +762,7 @@ C# / JavaScript - homeworks and exams according to the Software University(SoftU
       </tr>
       <tr>
          <td colspan="3" align="center" width="100%">
-            <p>Exam Preparation</p>
+            <h3><i><b>Exam Preparation</b></i></h3>
          </td>
       </tr>
       </tr>
@@ -787,7 +787,7 @@ C# / JavaScript - homeworks and exams according to the Software University(SoftU
          <td width="19.5%">
             <ul >
                <li>
-                  <p><a title="July 2019" href="https://github.com/q2kPetrov/SoftUni-Courses/tree/master/Exercises/Mid%20Exams/JS%20Advanced%20Exam%20Preparation%20-%20July%202019" target="_blank">Exam preparation -  July  2019</a>
+                  <p><a title="July 2019" href="https://github.com/q2kPetrov/SoftUni-Courses/tree/master/Exercises/Mid%20Exams/JS%20Advanced%20Exam%20Preparation%20-%20July%202019" target="_blank"><i>Exam preparation -  July  2019</a>
                   </p>
                </li>
             </ul>
@@ -826,7 +826,7 @@ C# / JavaScript - homeworks and exams according to the Software University(SoftU
 <!-- Summary Begin -->
 <details>
    <summary>
-      More Details
+      <strong> Click </strong> for more detailed information
       <table border="0" width="100%" cellspacing="1" cellpadding="3" align="left">
          <tr>
             <th align="left" width="50%">JavaScript Applications - February 2020 <br /> 24.02.2020 - 05.04.2020</th>
@@ -911,7 +911,7 @@ C# / JavaScript - homeworks and exams according to the Software University(SoftU
       <tr>
       <tr>
          <td colspan="3" align="center" width="100%">
-            <p>Exam Preparation</p>
+            <h3><i><b>Exam Preparation</b></i></h3>
          </td>
       </tr>
       </tr>
@@ -942,7 +942,7 @@ C# / JavaScript - homeworks and exams according to the Software University(SoftU
 <hr />
 <details>
    <summary>
-      More Details
+      <strong> Click </strong> for more detailed information
       <table border="0" width="100%" cellspacing="1" cellpadding="3" align="left">
          <tr>
             <th align="left" width="50%">MS SQL Basics - May 2020 <br /> 18.05.2020 - 21.06.2020</th>
@@ -1020,7 +1020,7 @@ C# / JavaScript - homeworks and exams according to the Software University(SoftU
       <tr>
       <tr>
          <td colspan="3" align="center" width="100%">
-            <p>Exam Preparation</p>
+            <h3><i><b>Exam Preparation</b></i></h3>
          </td>
       </tr>
       </tr>
@@ -1080,7 +1080,7 @@ C# / JavaScript - homeworks and exams according to the Software University(SoftU
 <!-- Summary Begin -->
 <details>
    <summary>
-      More Details
+      <strong> Click </strong> for more detailed information
       <table border="0" width="100%" cellspacing="1" cellpadding="3" align="left">
          <tr>
             <th align="left" width="50%">Entity Framework Core - June 2020 <br /> 22.06.2020 - 08.08.2020</th>
