@@ -5,8 +5,6 @@
 
 
 
-<html>
-<body>
 
 <h1>The details and summary elements + CSS</h1>
 
@@ -16,9 +14,6 @@
 </details>
 
 
-
-</body>
-</html>
 
 
 
