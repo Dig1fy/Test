@@ -532,17 +532,20 @@ C# / JavaScript - homeworks and exams according to the Software University(SoftU
 <details>
    <summary>
       <strong> Click </strong> for more detailed information
-      <table border="0" width="100%" cellspacing="1" cellpadding="3" align="left">
-         <tr>
-            <th align="left" width="50%">C# OOP - October 2019 <br /> 29.10.2019 - 15.12.2019</th>
-            <th width="40%">Grade: 6.00 (out of 6.00) <br /> Issue Date: 23/12/2019:</th>
-            <th>
-               <p><a title="C# OOP" href="https://softuni.bg/certificates/details/75306/fc669a56" target="_blank">Certificate</a></p>
-            </th>
-         </tr>
+      <table width="100%" cellspacing="11" cellpadding="14" align="center">
+         <tbody>
+            <tr>
+               <th align="left" width="50%">C# OOP - October 2019 <br /> 29.10.2019 - 15.12.2019</th>               
+               <th align="left" width="40%">Grade: 6.00 (out of 6.00) <br /> Issue Date: 23/12/2019</th>
+               <th align="left" width="10%">
+                  <p><a title="C# OOP" href="https://softuni.bg/certificates/details/75306/fc669a56" target="_blank">Certificate</a></p>
+               </th>
+            </tr>
+         </tbody>
       </table>
    </summary>
    <!-- Summary End -->
+   
    <table border="0" width="100%" cellspacing="0" cellpadding="0" align="left">
       <!-- Course Body -->
       <tr >
